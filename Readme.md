@@ -1,6 +1,8 @@
 # Личный проект «Глейси»
 
 * Студент: [Марина Паленская](https://up.htmlacademy.ru/htmlcss/16/user/231872).
+* Наставник: [Альбина Токарчук]
+(https://htmlacademy.ru/profile/id167491).
 
 ---
 
