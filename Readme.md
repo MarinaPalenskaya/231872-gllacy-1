@@ -1,10 +1,9 @@
 # Личный проект «Глейси»
 
 * Студент: [Марина Паленская](https://up.htmlacademy.ru/htmlcss/16/user/231872).
-* Наставник: [Альбина Токарчук]
-(https://htmlacademy.ru/profile/id167491).
 
----
+* Наставник: [Альбина Токарчук] (https://htmlacademy.ru/profile/id167491).
+
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
